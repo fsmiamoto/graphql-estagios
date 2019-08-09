@@ -20,6 +20,7 @@ module.exports = {
   },
   rules: {
     "@typescript-eslint/explicit-function-return-type": "off",
-    "quotes": ["error","double"]
+    "quotes": ["error","double"],
+    "semi": [2, "always"] 
   }
 }
