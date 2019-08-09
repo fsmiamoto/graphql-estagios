@@ -11,6 +11,7 @@ You can use [GraphiQL Online](https://graphiql-online.com/graphiql) to make quer
 
 ## Built with
  - Node.js
+ - MongoDB
  - Typescript
  - Apollo Server
 
