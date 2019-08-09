@@ -1,11 +1,8 @@
 import { ApolloServer } from "apollo-server";
-import dotenv from "dotenv";
 import mongoose from "mongoose";
 
 import resolvers from "./resolvers";
 import typeDefs from "./schemas";
-
-dotenv.config();
 
 const { MONGO_CONNECTION_STRING } = process.env;
 const PORT = process.env.PORT || 5000;
