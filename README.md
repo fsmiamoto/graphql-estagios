@@ -7,6 +7,8 @@ https://estagios-fetcher-api.herokuapp.com/
 
 You can use [GraphiQL Online](https://graphiql-online.com) to make queries to the address above.
 
+This project was created to test GraphQL and may be improved over time.
+
 ### Avaliable fields:
 ```bash
 type Offer {
