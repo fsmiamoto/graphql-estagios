@@ -11,7 +11,7 @@ export default gql`
 
   type Query {
     getOffers: [Offer]!
-      findOffers(code: String, description: String, jobType: String, date: String, course: String): [Offer]!
+    findOffers(code: String, description: String, jobType: String, date: String, course: String): [Offer]!
   }
 
   type Mutation {
