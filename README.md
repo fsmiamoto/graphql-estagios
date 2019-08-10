@@ -5,7 +5,7 @@ GraphQL API for data mined with [puppeteer-estagio-fetcher](https://github.com/f
 API avaliable for tests at:
 https://estagios-fetcher-api.herokuapp.com/
 
-You can use [GraphiQL Online](https://graphiql-online.com/graphiql) to make queries to the address above.
+You can use [GraphiQL Online](https://graphiql-online.com) to make queries to the address above.
 
 ![](./doc/test.png)
 
