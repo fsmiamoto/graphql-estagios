@@ -10,7 +10,7 @@
     "postinstall": "yarn build"
   },
   "dependencies": {
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.8.1",
     "dotenv": "^8.0.0",
     "graphql": "^14.4.2",
